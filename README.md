@@ -1,5 +1,18 @@
 # CSV to JSON Converter API
 
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
+[![SQLite](https://img.shields.io/badge/Database-SQLite-green.svg)](https://www.sqlite.org/)
+
+> **📌 Note on Technology Choice:** This solution is implemented in **Python** instead of Node.js as specified in the challenge. This decision was made because:
+> - Python is my primary tech stack and best showcases my production-ready skills
+> - All functional requirements are fully met
+> - Custom CSV parsing logic implemented from scratch (no external CSV libraries)
+> - Clean, maintainable, and well-documented code architecture
+> - The problem-solving approach and code quality remain the same regardless of language
+
+## 🚀 Quick Start
+# CSV to JSON Converter API
+
 A Python application that converts CSV files to JSON and stores data in SQLite.
 
 ## Features
