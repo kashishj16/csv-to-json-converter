@@ -1,0 +1,11 @@
+name.firstName,name.lastName,age,address.line1,address.line2,address.city,address.state,gender
+Rohit,Prasad,35,A-563 Rakshak Society,New Pune Road,Pune,Maharashtra,male
+Priya,Sharma,28,B-104 Sunset Apartments,MG Road,Mumbai,Maharashtra,female
+Amit,Kumar,42,C-201 Green Valley,Sector 15,Delhi,Delhi,male
+Sneha,Patel,19,D-305 Ocean View,Beach Road,Goa,Goa,female
+Rajesh,Verma,55,E-102 Hill Station,Mountain Road,Shimla,Himachal Pradesh,male
+Anjali,Singh,31,F-404 Garden Estate,Park Avenue,Bangalore,Karnataka,female
+Vikram,Rao,67,G-501 Sunset Villa,Lake View,Hyderabad,Telangana,male
+Neha,Gupta,23,H-203 City Center,Main Street,Jaipur,Rajasthan,female
+Karan,Mehta,45,I-601 Royal Palace,King's Road,Udaipur,Rajasthan,male
+Pooja,Desai,38,J-302 Marina Bay,Sea Shore,Chennai,Tamil Nadu,female
